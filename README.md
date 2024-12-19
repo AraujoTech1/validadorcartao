@@ -11,15 +11,6 @@ Este projeto tem como objetivo desenvolver uma função de validação de bandei
 - **Apoio a E-commerce**: Ajuda a personalizar ofertas e bônus baseados na bandeira do cartão (exemplo: cashback, pontos bônus).
 - **Fácil Integração**: O algoritmo pode ser facilmente integrado a outros sistemas que lidam com pagamentos ou checkout.
 
-## Tecnologias Utilizadas
-
-![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-
 ## Testes
 
 O sistema foi testado utilizando um conjunto de números de cartão de crédito com as bandeiras **Visa**, **Mastercard**, **Elo**, e **Hypercard**. A validação foi realizada verificando os prefixos dos números dos cartões e o resultado foi verificado em tempo real.
@@ -65,4 +56,18 @@ Aqui estão alguns **prompts úteis** para ajudar você a aproveitar o GitHub Co
 ### 8. Exemplos de Código
 - **Prompt**: "Digite 'exemplo de código para validar bandeira de cartão Visa, Mastercard ou Hypercard' e veja como o GitHub Copilot pode gerar um exemplo para você!"
 
+## Tecnologias Utilizadas
+
+![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+<p align="right">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo" />
+</p>
 
